@@ -1,4 +1,9 @@
 # CS2021 Final Project
+
+__author__ = "Jordan Myers and Aidan Sorensen"
+__copyright__ = "Copyright 2019, The University of Cincinnati"
+__email__ = "myers3jr@mail.uc.edu, sorensaa@mail.uc.edu"
+
 import tensorflow as tf
 import matplotlib.pyplot as plt
 from tensorflow import keras
